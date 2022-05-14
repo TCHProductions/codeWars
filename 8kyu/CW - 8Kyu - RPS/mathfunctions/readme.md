@@ -1,0 +1,1 @@
+Easy 1/10 8KYA Codewars
