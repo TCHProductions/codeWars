@@ -9,7 +9,7 @@ Write a function called sortGiftCode/sort_gift_code/SortGiftCode that accepts a 
 Examples (Input -- => Output):
 "abcdef"                      -- => "abcdef"
 "pqksuvy"                     -- => "kpqsuvy"
-"zyxwvutsrqponmlkjihgfedcba"  -- => "abcdefghijklmnopqrstuvwxyz"*/
+"zyxwvutsrqponmlkjihgfedcba"  -- => "abcd-=efghijklmnopqrstuvwxyz"*/
 
 function sortGiftCode(code){
     //TODO 
