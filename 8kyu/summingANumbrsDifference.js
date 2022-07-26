@@ -5,7 +5,7 @@ For example: (Input --> Output)
 10 --> 1
 99 --> 18
 -32 --> 5
-Let's assume that all numbers in the input will be integer values.*/
+Let's assume that all numbers in the input will be integer values. */
 
 function sumDigits(number) {
     let toAbs = Math.abs(number)
