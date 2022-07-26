@@ -5,7 +5,7 @@ arrow
 
 a and b are integers and > 0
 
-Write a function which returns the area of the arrow.*/
+Write a function which returns the area of the arrow. */
 
 function arrowArea(a,b) {
     // your code
