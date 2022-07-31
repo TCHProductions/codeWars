@@ -8,5 +8,5 @@ The conversion rate you should use is 6.75 CNY for every 1 USD. All numbers shou
 
 function usdcny(usd) {
     let conv = usd*6.75
-    return `${conv} Chinese Yuan`
+    return `${conv.toFixed(2)} Chinese Yuan`
   }
